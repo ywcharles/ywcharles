@@ -9,11 +9,10 @@
 
 - 💬 Ask me about **React, Rest APIs, JavaScript**
 
-- 📫 How to reach me **yuwucharles@gmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/charles-yuwu/](https://www.linkedin.com/in/charles-yuwu/)
 
 - ⚡ Fun fact **I make caffeinated drinks as a hobby**
 
-<h3 align="left">Connect with me: [https://www.linkedin.com/in/charles-yuwu/](https://www.linkedin.com/in/charles-yuwu/)</h3>
 <p align="left">
 </p>
 
