@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I make caffeinated drinks as a hobby**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [https://www.linkedin.com/in/charles-yuwu/](https://www.linkedin.com/in/charles-yuwu/)</h3>
 <p align="left">
 </p>
 
