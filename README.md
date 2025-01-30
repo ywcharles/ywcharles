@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Wu</h1>
-<h3 align="center">Full-stack developer shipping with crativity</h3>
+<h3 align="center">Full-stack developer shipping with creativity</h3>
 
 - 🔭 I’m currently working on [Call Center Chatbot](https://github.com/JacksonXu159/SeniorProject2024)
 
