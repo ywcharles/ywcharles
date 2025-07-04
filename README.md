@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Wu</h1>
 <h3 align="center">Full-stack developer shipping with creativity</h3>
 
-- 🔭 I’m currently working on [Call Center Chatbot](https://github.com/JacksonXu159/SeniorProject2024)
+- 🔭 I’m currently working on Curriculoo (A drag and drop resume builder)
 
 - 🌱 I’m currently learning **Langchain, RAG, AWS**
 
