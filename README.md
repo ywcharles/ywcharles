@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles Wu</h1>
 <h3 align="center">Full-stack developer shipping with creativity</h3>
 
-- 🔭 I’m currently working on Curriculoo (A drag and drop resume builder)
+- 🔭 I’m currently working on **Curriculoo (A drag and drop resume builder)**
 
-- 🌱 I’m currently learning **Langchain, RAG, AWS**
+- 🌱 I’m currently learning **SaaS Development**
 
 - 👨‍💻 All of my projects are available at [https://charlesyuwu.com/](https://charlesyuwu.com/)
 
